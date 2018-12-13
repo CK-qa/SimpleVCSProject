@@ -1,3 +1,0 @@
-[submodule "anothermodule"]
-	path = anothermodule
-	url = git://github.com/CK-qa/SimpleProject.git
